@@ -7,7 +7,7 @@ This project uses machine learning to predict whether an order will be delivered
 - A Jupyter Notebook: `Olist_Late_Delivery_Prediction.ipynb`
 - Data cleaning and preparation
 - Exploratory analysis of delivery times
-- A model to predict late deliveries
+- Models to predict late deliveries
 - Basic performance evaluation
 
 ## Libraries Used
